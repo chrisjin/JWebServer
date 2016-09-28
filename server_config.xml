@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<server>
+	<servername>
+		JinKK
+	</servername>
+	<poolsize>
+		8
+	</poolsize>
+	<host>
+			./test_site/config.properties
+	</host>
+		<host>
+			./test_site2/config.properties
+	</host>
+</server>

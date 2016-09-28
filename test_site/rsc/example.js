@@ -1,0 +1,1 @@
+alert('Click Me from Separate JS file');

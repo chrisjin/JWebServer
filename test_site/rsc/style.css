@@ -1,0 +1,26 @@
+.Rect{
+	width: 200px;
+	height: 200px;
+    border: 10px solid purple;
+    padding: 20px;
+    margin: 20px;
+}
+
+.banner{
+	position: absolute; 
+    top: 0; 
+    left: 0; 
+    background-color: #DDEEEE; 
+    width: 100%; 
+    padding-left: 10%;
+
+}
+
+body{
+	margin: 50px;
+}
+
+.Rect img{
+	max-width:100%;
+	max-height:100%;
+}
